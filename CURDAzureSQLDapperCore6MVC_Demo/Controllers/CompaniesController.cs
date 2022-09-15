@@ -2,7 +2,7 @@
 using CURDAzureSQLDapperCore6MVC_Demo.Repositories;
 using Microsoft.AspNetCore.Mvc;
 
-namespace CURDWithDapperCore6MVC_Demo.Controllers
+namespace CURDAzureSQLDapperCore6MVC_Demo.Controllers
 {
     public class CompaniesController : Controller
     {

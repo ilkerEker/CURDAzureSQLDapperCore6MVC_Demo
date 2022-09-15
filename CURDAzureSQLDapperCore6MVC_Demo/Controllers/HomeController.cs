@@ -3,6 +3,7 @@ using Microsoft.AspNetCore.Mvc;
 using System.Diagnostics;
 
 namespace CURDAzureSQLDapperCore6MVC_Demo.Controllers
+    
 {
     public class HomeController : Controller
     {
